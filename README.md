@@ -16,6 +16,7 @@ WSGI_APPLICATION = '<django_app_name>.wsgi.application'
 
 
 ### To change React app name:
+*In SETTINGS.PY:*
 ```python
 TEMPLATES = [
   {
